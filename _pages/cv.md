@@ -188,3 +188,8 @@ redirect_from:
 <i class="fa fa-palette"></i>  Drawing | 
 <i class="fa fa-microchip"></i>  Electronics
 
+***
+<a href="/files/Boualili_cv.pdf" target="_blank">
+   <button class="btn" ><i class="fa fa-file-download"></i> Download Resume </button>
+</a>
+<!-- download="boualili_resume" -->
