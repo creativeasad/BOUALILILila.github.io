@@ -11,9 +11,9 @@ title                    : "Lila Boualili"
 title_separator          : "-"
 name                     : &name "Lila Boualili"
 description              : &description "Postdoctoral Researcher in LIG at the University of Grenoble Alps"
-url                      : https://lilaboualili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://BOUALILILila.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "BOUALILILila/lilaboualili.github.io"
+repository               : "BOUALILILila/BOUALILILila.github.io"
 teaser                   : /images/profile.jpg
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
